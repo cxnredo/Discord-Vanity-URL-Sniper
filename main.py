@@ -1,7 +1,7 @@
 import asyncio
 import aiohttp
 
-TOKEN = "MTM4MDM0MDE2ODM5NzAyOTQ3OA.GU_wxq.TJ61IT9sxnYdZuWOMiUKzI56yZMkGtXhZZCwXY"
+TOKEN = "MTM3NTc3NzQ5MDc0Nzc4OTMxMg.GZHyGe.92m1rHidEF2xs8_b17rNedkj-XsmCzfmoaaFQA"
 WEBHOOK_URL = "https://discord.com/api/webhooks/1380340642433073183/J1uaOG_LzxM99m4iK6JiyvQbUyfx8kBiRSBxu2NS9aFziO1GvlBY3GMzLQ_8umqfmMC9"
 SERVER_ID = "1380335345194766396"
 VANITY_LIST = ["botancxn", "url2", "url3"]
